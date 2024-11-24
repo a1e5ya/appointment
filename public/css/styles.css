@@ -1,0 +1,48 @@
+
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.console {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 60px;
+}
+
+.console-button {
+    display: flex;
+    border: 1px;
+}
+
+.navbar-container {
+    background-color: azure;
+}
+
+
+main section {
+    padding: 20px 0;
+  }
+  
+  .card {
+    margin: 10px 0;
+  }
+  
+  .card-body {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 15px;
+  }
+  
